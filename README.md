@@ -9,5 +9,5 @@ See also [Search VMTN with REST API](http://www.lucd.info/2017/12/31/search-vmtn
 
 * Author  : **Luc Dekens**
 * Release :
-	* **0.9.1**		First draft
+	* **0.9.1**		First public draft
 	
