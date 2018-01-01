@@ -131,7 +131,7 @@ function Get-VMTNContent
 {
     [cmdletbinding(SupportsShouldProcess=$true)]
     param(
-    [string[]]$Keyword,
+    [string[]]$Keyword = @('*'),
     [DateTime]$Start,
     [DateTime]$Finish,
     [PSObject]$Author,
